@@ -1,0 +1,33 @@
+/* add your CSS here */
+body{
+    width: 330px;
+}
+.interesting-fact{
+    font-style: italic;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.labels{
+    font-weight: bold;
+}
+.wrapper{
+    border: solid 1px #CCC;
+}
+.information{
+    border: solid 1px #CCC;
+    margin: 15px;
+    padding: 5px;
+}
+.animal-name{
+    margin-left: 15px;
+    padding-bottom: 5px;
+}
+img[src="clownfish.png"]{
+    display: block;
+    width: 300px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 5px;
+}
